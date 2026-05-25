@@ -96,7 +96,7 @@ END;
 n = 7  
 Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
 
-## Progrsm:
+## Program:
 ```
 DECLARE
     n NUMBER := 7;
